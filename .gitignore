@@ -1,0 +1,48 @@
+# Python virtual environments
+.venv/
+.venv4/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Backup files
+*.zip
+
+# Temporary files
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
+# Large ONNX model weights
+models/multilingual_minilm/onnx/*.onnx
+# Training images
+data/leaf_disease/
+
+# Local community and chat data
+data/community_posts.json
+data/farmer_chats.json
+
+# Accidental temporary files
+/button
+/button[kind
+/div
+/div[data-testid
+
+# Private application data
+data/marketplace.sqlite3
+data/user_profile.json
+data/users.json
+
+# Accidental files containing special characters
+/button[[]kind
+/div[[]data-testid

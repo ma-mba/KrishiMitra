@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": "banana_section_001_part_1",
+    "crop": "banana",
+    "section_heading": "Bunchy top disease",
+    "pdf_pages": [
+      220,
+      221
+    ],
+    "text": "Bunchy top disease\nThis is a virus disease transmitted by aphids. Management 1. Eradicate disease affected plants. 2. Use disease free suckers for planting. Karpooravally, Kanchikela, Njalipoovan and Koompillakannan are less susceptible varieties. 3. Use of virus indexed tissue culture plants.",
+    "token_count": 76
+  },
+  {
+    "chunk_id": "banana_section_002_part_1",
+    "crop": "banana",
+    "section_heading": "Infectious chlorosis (Cucumber mosaic",
+    "pdf_pages": [
+      222
+    ],
+    "text": "Infectious chlorosis (Cucumber mosaic\nvirus disease) The disease is noticed in varieties such as Nendran, Palayankodan, Karpooravally, Kosthabontha, Peykunnan, Bhimkhel, Mottapoovan, Dakshinsagar, Madhuraga, Rasthali and Musa ornata.",
+    "token_count": 72
+  },
+  {
+    "chunk_id": "banana_section_002_part_2",
+    "crop": "banana",
+    "section_heading": "Infectious chlorosis (Cucumber mosaic",
+    "pdf_pages": [
+      222
+    ],
+    "text": "Infectious chlorosis (Cucumber mosaic\nThe most characteristic symptoms are the loss of leaf colour in patches, appearance of parallel chlorotic streaks on the younger leaves giving a striped appearance of the leaves. As the disease progresses, leaves emerge distorted, margins become irregularly wavy, often with blotches of necrotic tissues and the lamina is reduced in width.",
+    "token_count": 95
+  },
+  {
+    "chunk_id": "banana_section_002_part_3",
+    "crop": "banana",
+    "section_heading": "Infectious chlorosis (Cucumber mosaic",
+    "pdf_pages": [
+      222
+    ],
+    "text": "Infectious chlorosis (Cucumber mosaic\nIn severe cases, rotted areas are found throughout the leaf sheath and pseudostem. The affected plants produce only small bunches. This is a virus disease transmitted by aphids. 1. Use disease free suckers for planting. 2. Eradicate disease affected plants. 3. Avoid growing leguminous and cucurbi- taceous vegetables as intercrop in banana in disease prone areas.",
+    "token_count": 102
+  },
+  {
+    "chunk_id": "banana_section_003_part_1",
+    "crop": "banana",
+    "section_heading": "Banana streak disease",
+    "pdf_pages": [
+      222
+    ],
+    "text": "Banana streak disease\nBanana streak disease is caused by Banana streak badna virus and transmitted by pineapple mealy bug (Dysmicoccus brevipes Cockerell) and striped mealy bug (Ferrisia virgata Cockerell). It is predominant on Palayankodan variety, also noticed on other varieties like Nendran, Chinali and Mottapoovan.",
+    "token_count": 91
+  },
+  {
+    "chunk_id": "banana_section_003_part_2",
+    "crop": "banana",
+    "section_heading": "Banana streak disease",
+    "pdf_pages": [
+      222
+    ],
+    "text": "Banana streak disease\nThe symptoms appear on different parts of the plant such as leaf lamina, midrib, pseudostem and on bunches. Linear chlorotic streaks appear on leaf lamina which later turned brown streaks. Such dark brown linear lesions appear on petiole, midrib, pseudostem and bunches. Under severe conditions, necrosis and death of cigar leaf is noticed and such plants fail to flower and lead to total yield loss.",
+    "token_count": 105
+  },
+  {
+    "chunk_id": "banana_section_003_part_3",
+    "crop": "banana",
+    "section_heading": "Banana streak disease",
+    "pdf_pages": [
+      222
+    ],
+    "text": "Banana streak disease\nFor the control of the disease, eradicate diseased plants, do not select planting materials from infected clumps. Avoid growing colocasia as intercrop and control of mealy bug vectors.",
+    "token_count": 53
+  },
+  {
+    "chunk_id": "banana_section_004_part_1",
+    "crop": "banana",
+    "section_heading": "Process Protocol for Banana flour",
+    "pdf_pages": [
+      222
+    ],
+    "text": "Process Protocol for Banana flour\nproduction The banana powder is prepared by drying banana slices at 70oC for 24 h, which was pre- treated with 0.5% citric acid for 10 min, in a convective dryer. An ethnic health mix was also developed out of Nendran banana flour and sugar (75:25). The best proportion of Nendran banana flour and sugar were selected based on the nutritional and sensory quality parameters.",
+    "token_count": 101
+  },
+  {
+    "chunk_id": "banana_section_004_part_2",
+    "crop": "banana",
+    "section_heading": "Process Protocol for Banana flour",
+    "pdf_pages": [
+      222
+    ],
+    "text": "Process Protocol for Banana flour\nThe new product could be stored for more than six months using suitable packaging technology.",
+    "token_count": 26
+  }
+]

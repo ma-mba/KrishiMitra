@@ -1,0 +1,180 @@
+
+=================================================================
+Question: My banana leaves have brown streaks and the youngest leaf is dying.
+Expected: banana_section_003_part_2
+Top-1 correct: True
+
+Rank 1 | Score: 0.6937
+ID: banana_section_003_part_2
+Heading: Banana streak disease
+Text: Banana streak disease
+The symptoms appear on different parts of the plant such as leaf lamina, midrib, pseudostem and on bunches. Linear chlorotic streaks appear on leaf lamina which later turned brown streaks. Such dark brown linear lesions appear o
+
+Rank 2 | Score: 0.6253
+ID: banana_section_003_part_3
+Heading: Banana streak disease
+Text: Banana streak disease
+For the control of the disease, eradicate diseased plants, do not select planting materials from infected clumps. Avoid growing colocasia as intercrop and control of mealy bug vectors.
+
+Rank 3 | Score: 0.5905
+ID: banana_section_002_part_3
+Heading: Infectious chlorosis (Cucumber mosaic virus disease)
+Text: Infectious chlorosis (Cucumber mosaic virus disease)
+In severe cases, rotted areas are found throughout the leaf sheath and pseudostem. The affected plants produce only small bunches. This is a virus disease transmitted by aphids. 1. Use disease free
+
+Rank 4 | Score: 0.5756
+ID: banana_section_003_part_1
+Heading: Banana streak disease
+Text: Banana streak disease
+Banana streak disease is caused by Banana streak badna virus and transmitted by pineapple mealy bug (Dysmicoccus brevipes Cockerell) and striped mealy bug (Ferrisia virgata Cockerell). It is predominant on Palayankodan variety, 
+
+Rank 5 | Score: 0.4742
+ID: banana_section_002_part_2
+Heading: Infectious chlorosis (Cucumber mosaic virus disease)
+Text: Infectious chlorosis (Cucumber mosaic virus disease)
+The most characteristic symptoms are the loss of leaf colour in patches, appearance of parallel chlorotic streaks on the younger leaves giving a striped appearance of the leaves. As the disease pro
+
+Rank 6 | Score: 0.3997
+ID: banana_section_001_part_1
+Heading: Bunchy top disease
+Text: Bunchy top disease
+This is a virus disease transmitted by aphids. Management 1. Eradicate disease affected plants. 2. Use disease free suckers for planting. Karpooravally, Kanchikela, Njalipoovan and Koompillakannan are less susceptible varieties. 3.
+
+Rank 7 | Score: 0.3594
+ID: banana_section_004_part_1
+Heading: Process Protocol for Banana flour production
+Text: Process Protocol for Banana flour production
+The banana powder is prepared by drying banana slices at 70oC for 24 h, which was pre- treated with 0.5% citric acid for 10 min, in a convective dryer. An ethnic health mix was also developed out of Nendra
+
+Rank 8 | Score: 0.3174
+ID: banana_section_004_part_2
+Heading: Process Protocol for Banana flour production
+Text: Process Protocol for Banana flour production
+The new product could be stored for more than six months using suitable packaging technology.
+
+Rank 9 | Score: 0.2825
+ID: banana_section_002_part_1
+Heading: Infectious chlorosis (Cucumber mosaic virus disease)
+Text: Infectious chlorosis (Cucumber mosaic virus disease)
+The disease is noticed in varieties such as Nendran, Palayankodan, Karpooravally, Kosthabontha, Peykunnan, Bhimkhel, Mottapoovan, Dakshinsagar, Madhuraga, Rasthali and Musa ornata.
+
+=================================================================
+Question: My banana leaves are losing colour in patches and look striped.
+Expected: banana_section_002_part_2
+Top-1 correct: False
+
+Rank 1 | Score: 0.6174
+ID: banana_section_003_part_2
+Heading: Banana streak disease
+Text: Banana streak disease
+The symptoms appear on different parts of the plant such as leaf lamina, midrib, pseudostem and on bunches. Linear chlorotic streaks appear on leaf lamina which later turned brown streaks. Such dark brown linear lesions appear o
+
+Rank 2 | Score: 0.5814
+ID: banana_section_002_part_3
+Heading: Infectious chlorosis (Cucumber mosaic virus disease)
+Text: Infectious chlorosis (Cucumber mosaic virus disease)
+In severe cases, rotted areas are found throughout the leaf sheath and pseudostem. The affected plants produce only small bunches. This is a virus disease transmitted by aphids. 1. Use disease free
+
+Rank 3 | Score: 0.5612
+ID: banana_section_003_part_3
+Heading: Banana streak disease
+Text: Banana streak disease
+For the control of the disease, eradicate diseased plants, do not select planting materials from infected clumps. Avoid growing colocasia as intercrop and control of mealy bug vectors.
+
+Rank 4 | Score: 0.5545
+ID: banana_section_003_part_1
+Heading: Banana streak disease
+Text: Banana streak disease
+Banana streak disease is caused by Banana streak badna virus and transmitted by pineapple mealy bug (Dysmicoccus brevipes Cockerell) and striped mealy bug (Ferrisia virgata Cockerell). It is predominant on Palayankodan variety, 
+
+Rank 5 | Score: 0.5364
+ID: banana_section_002_part_2
+Heading: Infectious chlorosis (Cucumber mosaic virus disease)
+Text: Infectious chlorosis (Cucumber mosaic virus disease)
+The most characteristic symptoms are the loss of leaf colour in patches, appearance of parallel chlorotic streaks on the younger leaves giving a striped appearance of the leaves. As the disease pro
+
+Rank 6 | Score: 0.4326
+ID: banana_section_004_part_1
+Heading: Process Protocol for Banana flour production
+Text: Process Protocol for Banana flour production
+The banana powder is prepared by drying banana slices at 70oC for 24 h, which was pre- treated with 0.5% citric acid for 10 min, in a convective dryer. An ethnic health mix was also developed out of Nendra
+
+Rank 7 | Score: 0.3156
+ID: banana_section_004_part_2
+Heading: Process Protocol for Banana flour production
+Text: Process Protocol for Banana flour production
+The new product could be stored for more than six months using suitable packaging technology.
+
+Rank 8 | Score: 0.3012
+ID: banana_section_001_part_1
+Heading: Bunchy top disease
+Text: Bunchy top disease
+This is a virus disease transmitted by aphids. Management 1. Eradicate disease affected plants. 2. Use disease free suckers for planting. Karpooravally, Kanchikela, Njalipoovan and Koompillakannan are less susceptible varieties. 3.
+
+Rank 9 | Score: 0.2968
+ID: banana_section_002_part_1
+Heading: Infectious chlorosis (Cucumber mosaic virus disease)
+Text: Infectious chlorosis (Cucumber mosaic virus disease)
+The disease is noticed in varieties such as Nendran, Palayankodan, Karpooravally, Kosthabontha, Peykunnan, Bhimkhel, Mottapoovan, Dakshinsagar, Madhuraga, Rasthali and Musa ornata.
+
+=================================================================
+Question: How does banana streak disease spread?
+Expected: banana_section_003_part_1
+Top-1 correct: True
+
+Rank 1 | Score: 0.8338
+ID: banana_section_003_part_1
+Heading: Banana streak disease
+Text: Banana streak disease
+Banana streak disease is caused by Banana streak badna virus and transmitted by pineapple mealy bug (Dysmicoccus brevipes Cockerell) and striped mealy bug (Ferrisia virgata Cockerell). It is predominant on Palayankodan variety, 
+
+Rank 2 | Score: 0.7806
+ID: banana_section_003_part_2
+Heading: Banana streak disease
+Text: Banana streak disease
+The symptoms appear on different parts of the plant such as leaf lamina, midrib, pseudostem and on bunches. Linear chlorotic streaks appear on leaf lamina which later turned brown streaks. Such dark brown linear lesions appear o
+
+Rank 3 | Score: 0.7197
+ID: banana_section_003_part_3
+Heading: Banana streak disease
+Text: Banana streak disease
+For the control of the disease, eradicate diseased plants, do not select planting materials from infected clumps. Avoid growing colocasia as intercrop and control of mealy bug vectors.
+
+Rank 4 | Score: 0.6314
+ID: banana_section_002_part_3
+Heading: Infectious chlorosis (Cucumber mosaic virus disease)
+Text: Infectious chlorosis (Cucumber mosaic virus disease)
+In severe cases, rotted areas are found throughout the leaf sheath and pseudostem. The affected plants produce only small bunches. This is a virus disease transmitted by aphids. 1. Use disease free
+
+Rank 5 | Score: 0.5244
+ID: banana_section_002_part_2
+Heading: Infectious chlorosis (Cucumber mosaic virus disease)
+Text: Infectious chlorosis (Cucumber mosaic virus disease)
+The most characteristic symptoms are the loss of leaf colour in patches, appearance of parallel chlorotic streaks on the younger leaves giving a striped appearance of the leaves. As the disease pro
+
+Rank 6 | Score: 0.4851
+ID: banana_section_001_part_1
+Heading: Bunchy top disease
+Text: Bunchy top disease
+This is a virus disease transmitted by aphids. Management 1. Eradicate disease affected plants. 2. Use disease free suckers for planting. Karpooravally, Kanchikela, Njalipoovan and Koompillakannan are less susceptible varieties. 3.
+
+Rank 7 | Score: 0.4479
+ID: banana_section_002_part_1
+Heading: Infectious chlorosis (Cucumber mosaic virus disease)
+Text: Infectious chlorosis (Cucumber mosaic virus disease)
+The disease is noticed in varieties such as Nendran, Palayankodan, Karpooravally, Kosthabontha, Peykunnan, Bhimkhel, Mottapoovan, Dakshinsagar, Madhuraga, Rasthali and Musa ornata.
+
+Rank 8 | Score: 0.3902
+ID: banana_section_004_part_1
+Heading: Process Protocol for Banana flour production
+Text: Process Protocol for Banana flour production
+The banana powder is prepared by drying banana slices at 70oC for 24 h, which was pre- treated with 0.5% citric acid for 10 min, in a convective dryer. An ethnic health mix was also developed out of Nendra
+
+Rank 9 | Score: 0.3477
+ID: banana_section_004_part_2
+Heading: Process Protocol for Banana flour production
+Text: Process Protocol for Banana flour production
+The new product could be stored for more than six months using suitable packaging technology.
+
+=================================================================
+TOP-1 ACCURACY: 2/3

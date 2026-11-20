@@ -1,0 +1,32 @@
+/* Green‑palette styling for a professional look */
+body {
+    background-color: #f0f9f0;
+    color: #2e7d32;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #1b5e20;
+}
+
+[data-testid="stSidebar"] {
+    background-color: #e8f5e9;
+    padding: 1rem;
+}
+
+[data-testid="stSidebar"] .stButton > button {
+    width: 100%;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 0.5rem;
+}
+
+.card {
+    background: white;
+    border-radius: 8px;
+    padding: 1.2rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    margin-bottom: 1rem;
+}

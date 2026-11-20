@@ -1,0 +1,6 @@
+streamlit
+onnxruntime
+numpy
+tokenizers
+rank_bm25
+python-dotenv
