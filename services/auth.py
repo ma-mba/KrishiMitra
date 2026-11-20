@@ -105,6 +105,7 @@ def register_user(name: str, phone: str, password: str,
             return False, "Registration could not be completed. Please try again."
         return True, _session_user(result.data[0])
     except Exception as exc:
+        print(f"SUPABASE REGISTRATION ERROR: {type(exc).__name__}: {exc}", flush=True)
         if str(getattr(exc, "code", "")) == "23505":
             return False, "An account with this phone number already exists."
         return False, "Registration is temporarily unavailable. Please try again later."
