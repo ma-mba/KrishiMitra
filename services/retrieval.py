@@ -4,6 +4,7 @@ from pathlib import Path
 import numpy as np
 import onnxruntime as ort
 from tokenizers import Tokenizer
+from huggingface_hub import hf_hub_download
 
 # Paths relative to project root
 ROOT_DIR = Path(__file__).resolve().parents[1]
@@ -11,6 +12,17 @@ MODEL_DIR = ROOT_DIR / "models" / "multilingual_minilm"
 DATA_PATH = ROOT_DIR / "data" / "processed" / "kau_crop_chunks.json"
 EMBEDDINGS_PATH = ROOT_DIR / "data" / "processed" / "kau_embeddings.npy"
 MODEL_PATH = MODEL_DIR / "onnx" / "model_quint8_avx2.onnx"
+# Download the ONNX model automatically if it is missing.
+if not MODEL_PATH.is_file():
+    print("ONNX model missing. Downloading from Hugging Face...")
+
+    hf_hub_download(
+        repo_id="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        filename="onnx/model_quint8_avx2.onnx",
+        local_dir=MODEL_DIR,
+    )
+
+    print("ONNX model downloaded successfully.")
 
 # Load data once at import time
 with open(DATA_PATH, encoding="utf-8") as f:
