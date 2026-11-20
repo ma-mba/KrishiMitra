@@ -106,9 +106,9 @@ def render_login_portal():
     with col2:
         with st.container(border=True):
             tab_login, tab_register, tab_quick = st.tabs([
-                "🔐 " + ("ലോഗിൻ (Login)" if is_mal else "Farmer Login"),
-                "📝 " + ("പുതിയ കർഷകൻ (Register)" if is_mal else "Create Account"),
-                "⚡ " + ("ഡെമോ ലോഗിൻ (Quick Demo)" if is_mal else "Demo Access")
+                 ("ലോഗിൻ (Login)" if is_mal else "Farmer Login"),
+                ("പുതിയ കർഷകൻ (Register)" if is_mal else "Create Account"),
+                ("ഡെമോ ലോഗിൻ (Quick Demo)" if is_mal else "Demo Access")
             ])
 
             # 1. LOGIN TAB
@@ -124,7 +124,7 @@ def render_login_portal():
                         type="password",
                         placeholder="••••••••"
                     )
-                    login_btn = st.form_submit_button("🚀 " + ("ലോഗിൻ ചെയ്യുക (Login)" if is_mal else "Login"), type="primary", use_container_width=True)
+                    login_btn = st.form_submit_button("" + ("ലോഗിൻ ചെയ്യുക (Login)" if is_mal else "Login"), type="primary", use_container_width=True)
 
                     if login_btn:
                         if user_input and pass_input:
