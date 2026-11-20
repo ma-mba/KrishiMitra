@@ -46,3 +46,5 @@ data/users.json
 # Accidental files containing special characters
 /button[[]kind
 /div[[]data-testid
+/div[[]data-testid*
+installed_packages.txt

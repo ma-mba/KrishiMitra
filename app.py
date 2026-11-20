@@ -337,7 +337,7 @@ if canonical_page == "Home":
                 if cw.get("precipitation", 0) > 0.5:
                     st.warning("⚠️ Rain alert: Avoid foliar spraying today.")
                 else:
-                    st.success("✅ Favourable spraying and irrigation window.")E:\Git\cmd
+                    st.success("✅ Favourable spraying and irrigation window.")
             else:
                 st.info("Weather telemetry loading...")
 

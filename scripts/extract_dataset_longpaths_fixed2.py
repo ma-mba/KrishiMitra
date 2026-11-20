@@ -1,9 +1,7 @@
 import os, zipfile, shutil, sys
-
 base = r'C:\Users\mekha\.gemini\antigravity\scratch\krishimitr_work'
 zip_path = os.path.join(base, 'data', 'archive.zip')
 extract_to = os.path.join(base, 'data', 'leaf_disease')
-
 if not os.path.isfile(zip_path):
     print('ZIP not found at', zip_path)
     sys.exit(1)
@@ -25,7 +23,7 @@ with zipfile.ZipFile(zip_path, 'r') as z:
             continue
         # Use Windows extended-length prefix for the file write only
         # The prefix must be "\\?\" followed by the absolute path (no extra backslashes)
-        target_path_ext = r'\\?\' + target_path
+        target_path_ext = '\\\\?\\' + target_path
         with z.open(member) as src, open(target_path_ext, 'wb') as dst:
             shutil.copyfileobj(src, dst)
 print('Extraction completed. Files extracted:', len(z.namelist()))
