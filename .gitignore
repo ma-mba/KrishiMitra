@@ -48,3 +48,6 @@ data/users.json
 /div[[]data-testid
 /div[[]data-testid*
 installed_packages.txt
+
+
+.streamlit/secrets.toml

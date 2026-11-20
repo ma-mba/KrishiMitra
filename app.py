@@ -199,7 +199,7 @@ st.sidebar.markdown(f"""
 </div>
 """, unsafe_allow_html=True)
 
-if st.sidebar.button(("ലോഗ് ഔട്ട് (Sign Out)" if is_mal else "Sign Out / Switch User"), key="sign_out_btn", use_container_width=True):
+if st.sidebar.button("🚪 " + ("ലോഗ് ഔട്ട് (Sign Out)" if is_mal else "Sign Out / Switch User"), key="sign_out_btn", use_container_width=True):
     st.session_state["authenticated"] = False
     st.session_state["user"] = None
     st.rerun()
